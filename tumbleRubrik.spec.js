@@ -1,7 +1,7 @@
 const mocha = require('mocha')
 const { expect, assert } = require('chai')
 
-const { Space } = require('./index')
+const { Space } = require('./tumbleRubrik')
 
 describe('Class Space', () => {
   it('should translate allen v3 2017', () => {

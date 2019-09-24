@@ -5,7 +5,7 @@
   "main": "dist/tunbleRubrik.js",
   "scripts": {
     "test": "mocha --require @babel/register './test.js'",
-    "build": "parcel build ./tunbleRubrik.js --global TumbleRubrik"
+    "build": "parcel build ./tumbleRubrik.js --global TumbleRubrik"
   },
   "keywords": [],
   "author": "",
