@@ -1,19 +1,19 @@
 {
   "name": "tumble-rubrik",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
-  "main": "dist/index.js",
+  "main": "dist/tunbleRubrik.js",
   "scripts": {
     "test": "mocha --require @babel/register './test.js'",
-    "build": "parcel build ./index.js --global TumbleRubrik"
+    "build": "parcel build ./tunbleRubrik.js --global TumbleRubrik"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "^7.6.0",
-    "@babel/preset-env": "^7.6.0",
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
     "@babel/register": "^7.6.0",
     "chai": "^4.2.0",
     "mocha": "^6.2.0",

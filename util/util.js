@@ -1,5 +1,3 @@
-import { Space } from '../index'
-
 const x = new Set(['L', 'R']),
   y = new Set(['A', 'P']),
   z = new Set(['S', 'I'])
